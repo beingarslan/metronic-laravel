@@ -106,7 +106,7 @@
                             <div class="d-flex flex-stack flex-wrap gap-3 fs-base fw-semibold mb-8">
                                 <div></div>
                                 <!--begin::Link-->
-                                <a href="../../demo1/dist/authentication/layouts/corporate/reset-password.html"
+                                <a href="/password/reset"
                                     class="link-primary">Forgot Password ?</a>
                                 <!--end::Link-->
                             </div>
