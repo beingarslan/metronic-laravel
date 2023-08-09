@@ -4,7 +4,7 @@
         <!--begin::Copyright-->
         <div class="text-dark order-2 order-md-1">
             <span class="text-muted fw-semibold me-1">2022©</span>
-            <a href="https://keenthemes.com" target="_blank" class="text-gray-800 text-hover-primary"><img src="{{asset('assets/media/logos/coduko.png')}}" class="h-30px" alt=""></a>
+            <a href="#" target="_blank" class="text-gray-800 text-hover-primary"><img src="{{asset('assets/media/logos/coduko.png')}}" class="h-30px" alt=""></a>
         </div>
     </div>
     <!--end::Footer container-->

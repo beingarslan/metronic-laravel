@@ -9,9 +9,10 @@
         @yield('title')
 
     </title>
-    @include('partials.style')
 
     @yield('page-styles')
+    @include('partials.style')
+
 
     <!-- Scripts -->
     {{-- @vite(['resources/sass/app.scss', 'resources/js/app.js']) --}}
@@ -36,8 +37,10 @@
             </div>
         </div>
     </div>
-    @include('partials.script')
 
+    @include('partials.script')
+    @yield('vendor-script')
+    @yield('page-script')
 </body>
 <!--end::Body-->
 
